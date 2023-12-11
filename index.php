@@ -1,3 +1,6 @@
-<?php
-	echo "solucionando conflicto"
-?>
+
+<!DOCTYPE html>
+<html>
+
+</html>
+
